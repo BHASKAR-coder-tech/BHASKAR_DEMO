@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services(AWS),Cloud computing**
 
-- 📊 Data Analytics: Leveraging data to drive business decisions. [icc t20 world cup batsmen info.]("C:\Users\bhas1\Documents\batsmen info.pbix")
+- 📊 Data Analytics: Leveraging data to drive business decisions. **icc t20 world cup batsmen info.**
 
 - 💬 Ask me about **python,java**
 
@@ -26,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-coder-tech&show_icons=true&locale=en" alt="bhaskar-coder-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-coder-tech&" alt="bhaskar-coder-tech" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-coder-tech&show_icons=true&locale=en" alt="bhaskar-coder-tech" /></p>
-

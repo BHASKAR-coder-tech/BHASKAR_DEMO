@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm BHASKAR SAHU</h1>
+<img align="right" alt="cloud" alt="400" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 <h3 align="center">I'm a passionate cloud computing enthusiast with a keen interest in designing scalable, secure, and efficient cloud architectures from India🇮🇳 .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-coder-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-coder-tech" /> </p>
 
 - 🌱 I’m currently learning **Amazon Web Services(AWS),Cloud computing**
 
-- 📊 Data Analytics: Leveraging data to drive business decisions. **icc t20 world cup batsmen info.**
+- 📊 Data Analytics: Leveraging data to drive business decisions. 
 
 - 💬 Ask me about **python,java**
 
